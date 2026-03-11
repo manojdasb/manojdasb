@@ -10,6 +10,13 @@
 [![Instagram](https://img.shields.io/badge/-@manojdas__techmaverick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manojdas_techmaverick/)
 [![Profile Views](https://komarev.com/ghpvc/?username=ManojDas&color=00ffd1&style=for-the-badge&label=👁️+PROFILE+VIEWS)](https://github.com/ManojDas)
 
+<br/><br/>
+
+### 🌐 Check Out My Full Portfolio
+[![Portfolio](https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-FFB800?style=for-the-badge&logoColor=black)](https://portfolio-manojdasb.netlify.app/)
+
+> *Click above to experience the full cinematic version ↗*
+
 </div>
 
 ---
@@ -217,6 +224,10 @@ Q4 ████░░░░░░░░░░░░░░░░░░ 20%  ·  M
 &nbsp;&nbsp;
 <a href="mailto:your.email@gmail.com">
 <img src="https://img.shields.io/badge/Email-Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://portfolio-manojdasb.netlify.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now!-FFB800?style=for-the-badge&logoColor=black&labelColor=000000"/>
 </a>
 
 <br/><br/>
