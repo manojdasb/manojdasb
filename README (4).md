@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00FFD1&center=true&vCenter=true&width=700&lines=🔍+Exploring+Data+One+Line+at+a+Time...;🤖+Building+Models+That+Actually+Think;📊+From+Raw+Numbers+to+Real+Insights;🚀+BTech+→+Big+Data+→+Big+Dreams;💡+Where+Logic+Meets+Creativity" alt="Typing SVG" />
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/-%20Manoj%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-das-4a3706299/)
 [![Instagram](https://img.shields.io/badge/-@manojdas__techmaverick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manojdas_techmaverick/)
@@ -14,8 +12,6 @@
 
 ### 🌐 Check Out My Full Portfolio
 [![Portfolio](https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-FFB800?style=for-the-badge&logoColor=black)](https://portfolio-manojdasb.netlify.app/)
-
-> *Click above to experience the full cinematic version ↗*
 
 </div>
 
@@ -160,14 +156,6 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojDas&bg_color=0d1117&color=00FFD1&line=00FFD1&point=ffffff&area=true&area_color=00FFD120&hide_border=true&radius=8" width="98%"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ManojDas/ManojDas/output/github-contribution-grid-snake-dark.svg" width="98%"/>
 </div>
 
 ---
