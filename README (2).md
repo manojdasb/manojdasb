@@ -1,156 +1,187 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,030508,10,0a0f1a,100,FFB800&height=260&section=header&text=MANOJ%20DAS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Architect%20·%20ML%20Engineer%20·%20Data%20Scientist%20in%20the%20Making&descSize=16&descAlignY=60&descColor=00E5FF&stroke=FFB800&strokeWidth=1.5" width="100%"/>
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manoj%20Das&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Future%20Data%20Scientist&descAlignY=55&descSize=16" width="100%"/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Manoj+Das+%F0%9F%91%8B;BTech+3rd+Year+%7C+Data+Enthusiast+%F0%9F%93%8A;Turning+Raw+Data+into+Powerful+Insights+%F0%9F%9A%80;ML+%7C+Data+Engineering+%7C+Analytics+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3500&pause=1000&color=FFB800&center=true&vCenter=true&width=700&lines=//+Turning+chaos+into+clarity+with+data;//+Building+ML+models+that+actually+work;//+Engineering+pipelines+from+raw+to+refined;//+Visualizing+stories+hidden+in+numbers" />
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=ManojDas&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
+![Status](https://img.shields.io/badge/STATUS-Available%20for%20Internship-00FF88?style=for-the-badge&labelColor=030508)
 &nbsp;
-<img src="https://img.shields.io/github/followers/ManojDas?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS" />
+![Location](https://img.shields.io/badge/LOCATION-India%20🇮🇳-FFB800?style=for-the-badge&labelColor=030508)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=ManojDas&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=030508)
 
 </div>
 
 ---
 
-<img align="right" alt="Data Science GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## 🌌 About Me
+## `// 001 · IDENTITY`
 
 ```python
 class ManojDas:
     name       = "Manoj Das"
-    role       = "Aspiring Data Scientist & ML Engineer"
-    education  = "B.Tech | 3rd Year"
+    degree     = "B.Tech · 3rd Year"
     location   = "India 🇮🇳"
-    
-    interests  = [
-        "📊 Data Analytics",
-        "🛠️ Data Engineering",
-        "🤖 Machine Learning",
-        "🔬 Data Science"
+
+    superpower = [
+        "Turning chaos → clarity with data",
+        "Building ML models that actually work",
+        "Engineering pipelines from raw → refined",
+        "Visualizing stories hidden in numbers"
     ]
 
-    motto = "Data is the new oil — I'm here to refine it. ⚡"
+    philosophy = (
+        "Data is not a destination — it's a language."
+        "I've been learning to speak it fluently."
+    )
+
+>>> ManojDas()█
 ```
 
-<br/>
-
-🎯 **I'm on a mission** to decode the world through data — one model, one pipeline, one insight at a time.
-
-🧠 Fueled by curiosity, driven by patterns, and obsessed with finding **stories hidden inside numbers.**
-
-🚀 Currently leveling up in **ML algorithms, data pipelines & predictive analytics.**
-
-💡 *"Transforming messy data into meaningful decisions — that's my superpower."*
-
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Arsenal
+## `// 002 · ARSENAL`
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)
-![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=00d4ff)
+### Languages & Query
+![Python](https://img.shields.io/badge/Python-030508?style=for-the-badge&logo=python&logoColor=FFB800)
+![SQL](https://img.shields.io/badge/SQL-030508?style=for-the-badge&logo=mysql&logoColor=FFB800)
+![R](https://img.shields.io/badge/R-030508?style=for-the-badge&logo=r&logoColor=FFB800)
 
-### 📊 Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00d4ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00d4ff)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=00d4ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00d4ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=00d4ff)
-![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
+### ML & Data Science
+![Pandas](https://img.shields.io/badge/Pandas-030508?style=for-the-badge&logo=pandas&logoColor=00E5FF)
+![NumPy](https://img.shields.io/badge/NumPy-030508?style=for-the-badge&logo=numpy&logoColor=00E5FF)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-030508?style=for-the-badge&logo=scikit-learn&logoColor=00E5FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-030508?style=for-the-badge&logo=tensorflow&logoColor=00E5FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-030508?style=for-the-badge&logo=opencv&logoColor=00E5FF)
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00d4ff)
-![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-030508?style=for-the-badge&logo=jupyter&logoColor=FFB800)
+![VS Code](https://img.shields.io/badge/VSCode-030508?style=for-the-badge&logo=visual-studio-code&logoColor=FFB800)
+![Git](https://img.shields.io/badge/Git-030508?style=for-the-badge&logo=git&logoColor=FFB800)
+![Power BI](https://img.shields.io/badge/Power%20BI-030508?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+
+| Skill | Proficiency |
+|---|---|
+| 🐼 **Pandas · NumPy** | `████████████░░` 88% |
+| 🐍 **Python** | `█████████████░` 90% |
+| 📊 **Matplotlib · Seaborn** | `████████████░░` 85% |
+| 🤖 **Scikit-Learn** | `███████████░░░` 82% |
+| 🗄️ **SQL · MySQL** | `███████████░░░` 80% |
+| 🧠 **TensorFlow · Keras** | `██████████░░░░` 74% |
+| ⏳ **ARIMA · Time Series** | `██████████░░░░` 72% |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `// 003 · WORKS`
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| 🔭 Project | 📌 Description | 🛠️ Tech Used |
-|---|---|---|
-| 📦 **Inventory Forecasting** | Predictive model to optimize stock levels & reduce wastage using time-series analysis | Python · Pandas · Scikit-Learn · ARIMA |
-| 🎓 **Student Performance Analysis** | End-to-end ML pipeline to analyze & predict student academic outcomes | Python · EDA · Regression · Visualization |
-| 🐾 **Animal Classifier** | Deep learning model to classify animals from images with high accuracy | Python · TensorFlow · CNN · OpenCV |
+### `01` 📦 Inventory Forecasting
+![Type](https://img.shields.io/badge/Time%20Series-Forecasting-FFB800?style=flat-square&labelColor=030508)
 
-</div>
+Predictive engine to forecast demand using **ARIMA & ensemble regression**. Reduced overstock errors and automated seasonal pattern detection.
+
+`Python` `ARIMA` `Pandas` `Scikit-Learn`
+
+</td>
+<td width="33%" valign="top">
+
+### `02` 🎓 Student Performance
+![Type](https://img.shields.io/badge/EDA-ML%20Pipeline-00E5FF?style=flat-square&labelColor=030508)
+
+Full ML pipeline decoding academic outcomes. Feature engineering exposed the **top 5 hidden predictors**. Achieved **87%+ accuracy**.
+
+`Python` `Regression` `Seaborn` `EDA`
+
+</td>
+<td width="33%" valign="top">
+
+### `03` 🐾 Animal Classifier
+![Type](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-FF3B3B?style=flat-square&labelColor=030508)
+
+CNN + Transfer Learning classifying animals from images. Custom augmentation pipeline pushed validation accuracy to **90%+**.
+
+`TensorFlow` `CNN` `OpenCV` `Keras`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## `// 004 · STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManojDas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojDas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=6" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ManojDas&show_icons=true&hide_border=true&bg_color=030508&title_color=FFB800&icon_color=00E5FF&text_color=ffffff&ring_color=FFB800"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojDas&layout=compact&hide_border=true&bg_color=030508&title_color=FFB800&text_color=ffffff&langs_count=6"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojDas&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojDas&hide_border=true&background=030508&ring=FFB800&fire=FF3B3B&currStreakLabel=FFB800&sideLabels=ffffff&dates=555555&stroke=FFB800" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ManojDas&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## `// 005 · JOURNEY`
+
+```
+ MANOJ DAS · 2025 ROADMAP
+ ─────────────────────────────────────────────────────────
+
+ Q1  Python · SQL · EDA Mastery          [█████████████░░] 85%
+     Foundation locked. Data wrangling as second nature.
+
+ Q2  ML Algorithms · Model Evaluation    [██████████░░░░░] 65%
+     Classical ML hands-on. Regression, clustering done.
+
+ Q3  Data Engineering · Pipelines        [██████░░░░░░░░░] 40%
+     ETL, Airflow, data lakes. Currently in progress.
+
+ Q4  MLOps · Cloud Deployment            [███░░░░░░░░░░░░] 20%
+     AWS / GCP · Model serving · Production monitoring.
+
+ 🏁  GOAL: Data Analyst / Data Scientist Role
+ ─────────────────────────────────────────────────────────
+```
+
+---
+
+## `// 006 · CONTRIBUTION GRAPH`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ManojDas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojDas&bg_color=030508&color=FFB800&line=00E5FF&point=FFB800&area=true&area_color=FFB80015&hide_border=true&radius=4" width="98%"/>
 </div>
 
 ---
 
-## 📊 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojDas&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🌐 Connect With Me
+## `// 007 · CONNECT`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&label=Manoj%20Das)](https://www.linkedin.com/in/manoj-das-4a3706299/)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&label=@manojdas_techmaverick)](https://www.instagram.com/manojdas_techmaverick/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&label=Say%20Hello)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/─%20LINKEDIN%20─%20Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030508)](https://www.linkedin.com/in/manoj-das-4a3706299/)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/─%20INSTAGRAM%20─%20Follow%20My%20Journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=030508)](https://www.instagram.com/manojdas_techmaverick/)
+
+<br/><br/>
+
+> *"Open to internships, collaborations, and any problem that can be solved with data."*
 
 </div>
 
 ---
 
-<div align="center">
-
-### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-<sub>⭐ <i>If you find my work interesting, consider giving a star to my repos!</i> ⭐</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,030508,100,FFB800&height=120&section=footer&text=Keep+Building.+Keep+Learning.+Keep+Growing.&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
