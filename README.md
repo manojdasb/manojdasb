@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-%20Manoj%20Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-das-4a3706299/)
 [![Instagram](https://img.shields.io/badge/-@manojdas__techmaverick-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manojdas_techmaverick/)
-[![Profile Views](https://komarev.com/ghpvc/?username=ManojDas&color=00ffd1&style=for-the-badge&label=👁️+PROFILE+VIEWS)](https://github.com/ManojDas)
+[![Profile Views](https://komarev.com/ghpvc/?username=manojdasb&color=00ffd1&style=for-the-badge&label=👁️+PROFILE+VIEWS)](https://github.com/manojdasb)
 
 <br/><br/>
 
@@ -84,45 +84,58 @@
 
 <div align="center">
 
-### 📦 Inventory Forecasting System
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/PROJECT-01-FFB800?style=for-the-badge&labelColor=0d1117"/>
+
+### 📦 Inventory Forecasting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ARIMA](https://img.shields.io/badge/ARIMA-Time%20Series-00FFD1?style=flat-square)
+![ARIMA](https://img.shields.io/badge/ARIMA-00FFD1?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-> 📌 Built a predictive model to **forecast inventory demand** using time-series analysis, reducing overstock and stockouts. Applied ARIMA & regression techniques on real-world style datasets.
+Predictive engine to **forecast inventory demand** using time-series analysis. Reduced overstock errors using ARIMA & ensemble regression.
 
-**Key Highlights:**
-- ✅ Automated demand prediction pipeline
-- ✅ Reduced forecast error using ensemble methods
-- ✅ Interactive visualizations of seasonal trends
+✅ Automated pipeline<br/>
+✅ Reduced forecast error<br/>
+✅ Seasonal trend visuals
 
----
+</td>
+<td width="33%" valign="top" align="center">
 
-### 🎓 Student Performance Analysis
+<img src="https://img.shields.io/badge/PROJECT-02-00E5FF?style=for-the-badge&labelColor=0d1117"/>
+
+### 🎓 Student Performance
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=flat-square)
-![EDA](https://img.shields.io/badge/EDA-Seaborn%20%2F%20Matplotlib-4EABE4?style=flat-square)
+![ML](https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-4EABE4?style=flat-square)
 
-> 📌 End-to-end ML pipeline that **analyzes & predicts student academic performance** based on behavioral, demographic, and academic input features.
+End-to-end ML pipeline **predicting academic outcomes**. Feature engineering revealed top 5 hidden predictors with **87%+ accuracy**.
 
-**Key Highlights:**
-- ✅ Cleaned & transformed messy educational data
-- ✅ Feature engineering revealed top 5 impact factors
-- ✅ Achieved 87%+ classification accuracy
+✅ Cleaned messy data<br/>
+✅ Top 5 impact factors<br/>
+✅ 87%+ accuracy
 
----
+</td>
+<td width="33%" valign="top" align="center">
 
-### 🐾 Animal Classifier (Deep Learning)
+<img src="https://img.shields.io/badge/PROJECT-03-FF3B3B?style=for-the-badge&labelColor=0d1117"/>
+
+### 🐾 Animal Classifier
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-FF4081?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-FF4081?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-> 📌 Convolutional Neural Network model that **classifies animals from images** with high accuracy using transfer learning and custom CNN architecture.
+CNN + Transfer Learning model **classifying animals from images**. Custom augmentation pipeline pushed accuracy to **90%+**.
 
-**Key Highlights:**
-- ✅ Built custom CNN + applied Transfer Learning
-- ✅ Preprocessed & augmented image dataset
-- ✅ Achieved 90%+ validation accuracy
+✅ Custom CNN built<br/>
+✅ Transfer Learning applied<br/>
+✅ 90%+ accuracy
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -132,13 +145,13 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ManojDas&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manojdasb&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojDas&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFD1&text_color=ffffff&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojdasb&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FFD1&text_color=ffffff&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManojDas&theme=dark&hide_border=true&background=0d1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=ffffff&dates=888888" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojdasb&theme=dark&hide_border=true&background=0d1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=ffffff&dates=888888" width="60%"/>
 
 </div>
 
@@ -147,7 +160,7 @@
 ## 🏆 Achievement Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ManojDas&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manojdasb&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=2&column=4"/>
 </div>
 
 ---
@@ -155,7 +168,19 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojDas&bg_color=0d1117&color=00FFD1&line=00FFD1&point=ffffff&area=true&area_color=00FFD120&hide_border=true&radius=8" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojdasb&bg_color=0d1117&color=00FFD1&line=00FFD1&point=ffffff&area=true&area_color=00FFD120&hide_border=true&radius=8" width="98%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojdasb/manojdasb/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojdasb/manojdasb/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/manojdasb/manojdasb/output/github-contribution-grid-snake-dark.svg" width="98%"/>
+</picture>
 </div>
 
 ---
