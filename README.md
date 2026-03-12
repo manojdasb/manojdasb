@@ -151,7 +151,7 @@ CNN + Transfer Learning model **classifying animals from images**. Custom augmen
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojdasb&theme=dark&hide_border=true&background=0d1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=ffffff&dates=888888" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=manojdasb&theme=dark&hide_border=true&background=0d1117&ring=00FFD1&fire=FF6B6B&currStreakLabel=00FFD1&sideLabels=ffffff&dates=888888" width="60%"/>
 
 </div>
 
@@ -160,7 +160,9 @@ CNN + Transfer Learning model **classifying animals from images**. Custom augmen
 ## 🏆 Achievement Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manojdasb&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=2&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=manojdasb&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" />
+
 </div>
 
 ---
